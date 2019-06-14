@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysForms", "ArraysForms\ArraysForms.csproj", "{DF8C147B-7B5D-41EF-BDB1-8BFF122B954E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF8C147B-7B5D-41EF-BDB1-8BFF122B954E}.Debug|x86.ActiveCfg = Debug|x86
+		{DF8C147B-7B5D-41EF-BDB1-8BFF122B954E}.Debug|x86.Build.0 = Debug|x86
+		{DF8C147B-7B5D-41EF-BDB1-8BFF122B954E}.Release|x86.ActiveCfg = Release|x86
+		{DF8C147B-7B5D-41EF-BDB1-8BFF122B954E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6250742-3FB7-413E-A5A8-F0ED28D215C4}
+	EndGlobalSection
+EndGlobal

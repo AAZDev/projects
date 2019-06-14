@@ -1,0 +1,17 @@
+C:\Datos\Libro Estructuras de Datos en C# Por BLT\Programas\Arreglos\ArreglosFormas\ArreglosFormas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Datos\Libro Estructuras de Datos en C# Por BLT\Programas\Arreglos\ArreglosFormas\ArreglosFormas\obj\x86\Debug\ArreglosFormas.Form1.resources
+C:\Datos\Libro Estructuras de Datos en C# Por BLT\Programas\Arreglos\ArreglosFormas\ArreglosFormas\obj\x86\Debug\ArreglosFormas.Properties.Resources.resources
+C:\Datos\Libro Estructuras de Datos en C# Por BLT\Programas\Arreglos\ArreglosFormas\ArreglosFormas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Datos\Libro Estructuras de Datos en C# Por BLT\Programas\Arreglos\ArreglosFormas\ArreglosFormas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Datos\Libro Estructuras de Datos en C# Por BLT\Programas\Arreglos\ArreglosFormas\ArreglosFormas\bin\Debug\ArreglosFormas.exe
+C:\Datos\Libro Estructuras de Datos en C# Por BLT\Programas\Arreglos\ArreglosFormas\ArreglosFormas\bin\Debug\ArreglosFormas.pdb
+C:\Datos\Libro Estructuras de Datos en C# Por BLT\Programas\Arreglos\ArreglosFormas\ArreglosFormas\obj\x86\Debug\ArreglosFormas.exe
+C:\Datos\Libro Estructuras de Datos en C# Por BLT\Programas\Arreglos\ArreglosFormas\ArreglosFormas\obj\x86\Debug\ArreglosFormas.pdb
+C:\Datos\Libro Estructuras de Datos en C# Por BLT\Programas\Cap. 03 - Arreglos\ArreglosFormas\ArreglosFormas\obj\x86\Debug\ArreglosFormas.exe
+C:\Datos\Libro Estructuras de Datos en C# Por BLT\Programas\Cap. 03 - Arreglos\ArreglosFormas\ArreglosFormas\obj\x86\Debug\ArreglosFormas.pdb
+C:\Datos\Libro Estructuras de Datos en C# Por BLT\Programas\Cap. 03 - Arreglos\Prog. 3.2 - Arreglo Desordenado Formas (Equipo de beisbol)\ArreglosFormas\obj\x86\Debug\ArreglosFormas.exe
+C:\Datos\Libro Estructuras de Datos en C# Por BLT\Programas\Cap. 03 - Arreglos\Prog. 3.2 - Arreglo Desordenado Formas (Equipo de beisbol)\ArreglosFormas\obj\x86\Debug\ArreglosFormas.pdb
+C:\Users\Fénix\Downloads\Capitulo_3\Prog. 3.2 - Arreglo Desordenado Formas (Equipo de beisbol)\Prog. 3.2 - Arreglo Desordenado Formas (Equipo de beisbol)\ArreglosFormas\obj\x86\Debug\ArreglosFormas.Form1.resources
+C:\Users\Fénix\Downloads\Capitulo_3\Prog. 3.2 - Arreglo Desordenado Formas (Equipo de beisbol)\Prog. 3.2 - Arreglo Desordenado Formas (Equipo de beisbol)\ArreglosFormas\obj\x86\Debug\ArreglosFormas.Properties.Resources.resources
+C:\Users\Fénix\Downloads\Capitulo_3\Prog. 3.2 - Arreglo Desordenado Formas (Equipo de beisbol)\Prog. 3.2 - Arreglo Desordenado Formas (Equipo de beisbol)\ArreglosFormas\obj\x86\Debug\ArreglosFormas.csproj.GenerateResource.cache
+C:\Users\Fénix\Downloads\Capitulo_3\Prog. 3.2 - Arreglo Desordenado Formas (Equipo de beisbol)\Prog. 3.2 - Arreglo Desordenado Formas (Equipo de beisbol)\ArreglosFormas\obj\x86\Debug\ArreglosFormas.csproj.CoreCompileInputs.cache
